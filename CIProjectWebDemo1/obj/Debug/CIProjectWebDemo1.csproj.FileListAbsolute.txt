@@ -1,0 +1,5 @@
+D:\develop\CI\Code\CIProjectWebDemo1\CIProjectWebDemo1\bin\CIProjectWebDemo1.dll.config
+D:\develop\CI\Code\CIProjectWebDemo1\CIProjectWebDemo1\bin\CIProjectWebDemo1.dll
+D:\develop\CI\Code\CIProjectWebDemo1\CIProjectWebDemo1\bin\CIProjectWebDemo1.pdb
+D:\develop\CI\Code\CIProjectWebDemo1\CIProjectWebDemo1\obj\Debug\CIProjectWebDemo1.dll
+D:\develop\CI\Code\CIProjectWebDemo1\CIProjectWebDemo1\obj\Debug\CIProjectWebDemo1.pdb
