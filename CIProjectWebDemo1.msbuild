@@ -3,7 +3,7 @@
     DefaultTargets="RunUnitTests">
 	<ItemGroup>
 		<BuildArtifactsDir Include="BuildArtifacts\" />
-		<SolutionFile Include="CIProjectDemo1.sln" />
+		<SolutionFile Include="CIProjectWebDemo1.sln" />
 		<NUnitConsole Include="C:\Program Files (x86)\NUnit 2.6\bin\nunit-console.exe" />
 		<UnitTestsDLL Include="BuildArtifacts\CIProjectWebDemo1.UnitTests.dll" />
 		<TestResultsPath Include="BuildArtifacts\TestResults.xml" />
