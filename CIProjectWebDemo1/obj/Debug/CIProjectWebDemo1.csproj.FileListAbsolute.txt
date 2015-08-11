@@ -8,4 +8,3 @@ D:\develop\GitHub\GitHubforTesting\CIProjectWebDemo1\CIProjectWebDemo1\bin\CIPro
 D:\develop\GitHub\GitHubforTesting\CIProjectWebDemo1\CIProjectWebDemo1\bin\CIProjectWebDemo1.pdb
 D:\develop\GitHub\GitHubforTesting\CIProjectWebDemo1\CIProjectWebDemo1\obj\Debug\CIProjectWebDemo1.dll
 D:\develop\GitHub\GitHubforTesting\CIProjectWebDemo1\CIProjectWebDemo1\obj\Debug\CIProjectWebDemo1.pdb
-D:\develop\GitHub\GitHubforTesting\CIProjectWebDemo1\CIProjectWebDemo1\obj\Debug\CIProjectWebDemo1.csprojResolveAssemblyReference.cache
