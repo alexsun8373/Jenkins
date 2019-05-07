@@ -4,4 +4,5 @@
           <ItemGroup>
 		<BuildArtifactsDir Include="BuildArtifacts\" />
 		<SolutionFile Include="CIProjectWebDemo1.sln" />
+	  </ItemGroup>
 </Project>
